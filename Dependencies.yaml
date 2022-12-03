@@ -1,4 +1,4 @@
-name: EthoVision_analyser
+name: EthoVision_analysis
 channels:
   - defaults
 dependencies:
