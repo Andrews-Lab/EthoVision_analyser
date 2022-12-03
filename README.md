@@ -1,8 +1,8 @@
-# EthoVision XT 14 Analyser 🐁
+# EthoVision XT 14 Analysis 🐁
 
 ### Overview
 
-__Noldus EthoVision XT 14 Analyser__
+__Noldus EthoVision XT 14__
 
 [Noldus EthoVision XT](https://www.noldus.com/ethovision-xt) is a video tracking software that allows the position of rodents in videos to be analysed over time. <br>
 This can indicate the time spent in the dark zone of a light-dark box, the closed arms of an elevated plus maze, etc. <br>
@@ -37,11 +37,11 @@ Install [Anaconda Navigator](https://www.anaconda.com/products/distribution). <b
 Open Anaconda Prompt (on Mac open terminal and install X-Code when prompted). <br>
 Download this repository to your home directory by typing in the line below.
 ```
-git clone https://github.com/Andrews-Lab/EthoVision_analyser.git
+git clone https://github.com/Andrews-Lab/EthoVision_analysis.git
 ```
 Change the directory to the place where the downloaded folder is. <br>
 ```
-cd EthoVision_analyser
+cd EthoVision_analysis
 ```
 
 Create a conda environment and install the dependencies.
@@ -53,7 +53,7 @@ conda env create -n EVA -f Dependencies.yaml
 Open Anaconda Prompt (on Mac open terminal). <br>
 Change the directory to the place where the git clone was made.
 ```
-cd EthoVision_analyser
+cd EthoVision_analysis
 ```
 
 Activate the conda environment.
@@ -63,12 +63,12 @@ conda activate EVA
 
 Run the codes.
 ```
-python Ethovision_analyser.py
+python Ethovision_analysis.py
 ```
 
 ### Guide
 
-View the guide about [how to analyse your EthoVision XT data](How_to_use_EthoVision_analyser_codes.pdf).
+View the guide about [how to analyse your EthoVision XT data](How_to_use_EthoVision_analysis_codes.pdf).
 
 <br>
 
