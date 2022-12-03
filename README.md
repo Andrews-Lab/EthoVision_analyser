@@ -1,11 +1,17 @@
-# BioDaq Food and Water Intake Monitor Time Bins 🐁
+# EthoVision XT 14 Analyser 🐁
 
 ### Overview
 
-__BioDaq Food and Water Intake Monitor__
+__Noldus EthoVision XT 14 Analyser__
 
-The [BioDaq Food and Water Intake Monitor](https://researchdiets.com/biodaq) allows food and water levels in each rodent cage to be measured at all times.
-This gives greater temporal resolution to food and water intake data, compared to data obatined through manual weighing.
+[Noldus EthoVisoin XT](https://www.noldus.com/ethovision-xt) is a video tracking software that allows the position of rodents in videos to be analysed over time.
+This can indicate the time spent in the dark zone of a light-dark box, the closed arms of an elevated plus maze, etc.
+It also allows the manual annotation of rodent behaviours over time (manual scoring).
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/101311642/205425743-83fd6516-aa17-442b-bc23-45a3cb728790.png" width="30%" />
+  <img src="https://user-images.githubusercontent.com/101311642/205426201-e7c84d6f-30cd-4a05-af8a-e6f43e89c155.png" width="30%" /> 
+</p>
 
 __Purpose__
 
